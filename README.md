@@ -4,16 +4,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drona-pareek/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dronpareek7-art)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dron_pareek)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dronpareek7@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919983736942)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=dronpareek7-art&color=6366f1&style=flat-square&label=profile+views)
-[![GitHub followers](https://img.shields.io/github/followers/dronpareek7-art?style=flat-square&color=6366f1&label=followers)](https://github.com/dronpareek7-art)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drona-pareek/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dronpareek7-art)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dron_pareek)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dronpareek7@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919983736942)
 
 </div>
 
@@ -153,18 +148,6 @@ const drona = {
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dronpareek7-art&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=6366f1&icon_color=a855f7&text_color=e2e8f0" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dronpareek7-art&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e2e8f0" height="180"/>
-
-</div>
 
 ---
 
