@@ -4,16 +4,16 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-drona--pareek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drona-pareek/)
-[![GitHub](https://img.shields.io/badge/GitHub-dronpareek7--art-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dronpareek7-art)
-[![Instagram](https://img.shields.io/badge/Instagram-dron__pareek-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dron_pareek)
-[![Gmail](https://img.shields.io/badge/Gmail-dronpareek7@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dronpareek7@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91_99837_36942-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919983736942)
+[![LinkedIn](https://img.shields.io/badge/linkedin-drona--pareek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drona-pareek/)
+[![GitHub](https://img.shields.io/badge/github-dronpareek7--art-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dronpareek7-art)
+[![Instagram](https://img.shields.io/badge/instagram-dron__pareek-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dron_pareek)
+[![Gmail](https://img.shields.io/badge/gmail-dronpareek7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dronpareek7@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-%2B91_99837_36942-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919983736942)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dronpareek7-art&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/dronpareek7-art?style=for-the-badge&color=6366f1&label=FOLLOWERS)](https://github.com/dronpareek7-art)
+![Profile Views](https://komarev.com/ghpvc/?username=dronpareek7-art&color=6366f1&style=for-the-badge&label=profile+views)
+[![GitHub followers](https://img.shields.io/github/followers/dronpareek7-art?style=for-the-badge&color=6366f1&label=followers)](https://github.com/dronpareek7-art)
 
 </div>
 
@@ -34,7 +34,6 @@ const drona = {
 };
 ```
 
-- 🔥 **4+ live deployed React.js projects** serving real users on Vercel
 - 🔐 Experience with **Firebase Authentication** & **REST APIs**
 - 📊 Built **interactive data visualizations** using Chart.js
 - 🌱 Currently learning **Node.js · Express.js · MongoDB** (Full Stack path)
@@ -167,10 +166,6 @@ const drona = {
 
 <img src="https://streak-stats.demolab.com/?user=dronpareek7-art&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=a855f7&currStreakLabel=6366f1" width="60%"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dronpareek7-art&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=a855f7&point=ffffff" width="100%"/>
-
 </div>
 
 ---
@@ -189,15 +184,15 @@ const drona = {
 <div align="center">
 
 ```
-🔵 Node.js ████████░░ 75%    🟢 Express.js ███████░░░ 65%
-🟠 MongoDB  ██████░░░░ 55%    🔴 REST APIs  ████████░░ 80%
+🔵 Node.js    ████████░░  75%     🟢 Express.js  ███████░░░  65%
+🟠 MongoDB    ██████░░░░  55%     🔴 REST APIs   ████████░░  80%
 ```
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -205,9 +200,11 @@ const drona = {
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drona-pareek/)
+[![LinkedIn](https://img.shields.io/badge/connect_on_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drona-pareek/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dronpareek7@gmail.com)
+[![Gmail](https://img.shields.io/badge/send_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dronpareek7@gmail.com)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/follow_on_instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dron_pareek)
 
 <br/>
 
