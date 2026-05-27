@@ -4,16 +4,16 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-drona--pareek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drona-pareek/)
-[![GitHub](https://img.shields.io/badge/github-dronpareek7--art-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dronpareek7-art)
-[![Instagram](https://img.shields.io/badge/instagram-dron__pareek-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dron_pareek)
-[![Gmail](https://img.shields.io/badge/gmail-dronpareek7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dronpareek7@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/whatsapp-%2B91_99837_36942-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919983736942)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drona-pareek/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dronpareek7-art)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dron_pareek)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dronpareek7@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919983736942)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dronpareek7-art&color=6366f1&style=for-the-badge&label=profile+views)
-[![GitHub followers](https://img.shields.io/github/followers/dronpareek7-art?style=for-the-badge&color=6366f1&label=followers)](https://github.com/dronpareek7-art)
+![Profile Views](https://komarev.com/ghpvc/?username=dronpareek7-art&color=6366f1&style=flat-square&label=profile+views)
+[![GitHub followers](https://img.shields.io/github/followers/dronpareek7-art?style=flat-square&color=6366f1&label=followers)](https://github.com/dronpareek7-art)
 
 </div>
 
@@ -34,9 +34,11 @@ const drona = {
 };
 ```
 
+**Frontend Developer** building production-grade web apps with React.js. Skilled in REST APIs, Firebase, and data visualization. Currently on the full stack path — expanding into Node.js, Express.js, and MongoDB. Open to **internship opportunities** in frontend or full stack roles.
+
 - 🔐 Experience with **Firebase Authentication** & **REST APIs**
 - 📊 Built **interactive data visualizations** using Chart.js
-- 🌱 Currently learning **Node.js · Express.js · MongoDB** (Full Stack path)
+- 🌱 Expanding into **Node.js · Express.js · MongoDB**
 - 🎯 Focused on **clean code**, component-based architecture & performance-first UI
 
 ---
@@ -162,10 +164,6 @@ const drona = {
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dronpareek7-art&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e2e8f0" height="180"/>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=dronpareek7-art&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=a855f7&currStreakLabel=6366f1" width="60%"/>
-
 </div>
 
 ---
@@ -176,19 +174,6 @@ const drona = {
 |---|---|---|---|
 | KKC PG College, Churu (MGSU) | Bachelor of Computer Applications (BCA) | 2024 – Present | CGPA: 8.5 / 10 |
 | Full Stack Web Dev Bootcamp, Jaipur | Node.js · Express.js · MongoDB · REST APIs | 2025 – Present | Ongoing |
-
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-```
-🔵 Node.js    ████████░░  75%     🟢 Express.js  ███████░░░  65%
-🟠 MongoDB    ██████░░░░  55%     🔴 REST APIs   ████████░░  80%
-```
-
-</div>
 
 ---
 
