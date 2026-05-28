@@ -66,88 +66,56 @@ const drona = {
 
 ## 🚀 Live Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🎬 Movies Hub
-**Tech:** React.js · TMDB API · Firebase · Context API
-
-🔗 [movies-hub-black-phi.vercel.app](https://movies-hub-black-phi.vercel.app)
+> React.js · TMDB API · Firebase · Context API &nbsp;|&nbsp; 🔗 [Live Demo](https://movies-hub-black-phi.vercel.app)
 
 - 500K+ movie & TV records via TMDB API
 - Firebase Auth with persistent user watchlists
 - Dynamic routing across 3 content categories
-- Global state via Context API (10+ components)
+- Global state via Context API — no prop-drilling across 10+ components
 
-</td>
-<td width="50%">
+---
 
 ### 💰 Budget Calculator
-**Tech:** React.js · Chart.js · Vercel
+> React.js · Chart.js · Vercel &nbsp;|&nbsp; 🔗 [Live Demo](https://budget-calculator-drab-seven.vercel.app)
 
-🔗 [budget-calculator-drab-seven.vercel.app](https://budget-calculator-drab-seven.vercel.app)
-
-- Real-time income/expense tracking
-- Interactive pie & bar charts via Chart.js
+- Real-time income/expense tracking with instant state updates
+- Interactive pie & bar charts replacing manual spreadsheet tracking
 - Fully responsive — mobile & desktop ready
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### 🛒 E-Commerce App
-**Tech:** React.js · REST API · Vercel
+> React.js · REST API · Vercel &nbsp;|&nbsp; 🔗 [Live Demo](https://e-commerce-react-hrh7.vercel.app)
 
-🔗 [e-commerce-react-hrh7.vercel.app](https://e-commerce-react-hrh7.vercel.app)
+- 50+ product storefront with cart management & checkout flow
+- Skeleton loading screens — improving perceived load time by ~40%
+- Reusable component architecture across 6 core UI sections
 
-- 50+ product storefront with cart & checkout
-- Skeleton loading screens (~40% faster perceived load)
-- Reusable component architecture across 6 UI sections
-
-</td>
-<td width="50%">
+---
 
 ### 🏆 Scoreboard App
-**Tech:** React.js · Vercel
+> React.js · Vercel &nbsp;|&nbsp; 🔗 [Live Demo](https://scoreboard-react-jet.vercel.app)
 
-🔗 [scoreboard-react-jet.vercel.app](https://scoreboard-react-jet.vercel.app)
-
-- Live score updates with dynamic ranking sort
-- Efficient useState-driven instant re-renders
+- Live score updates with dynamic sorting by ranking
+- Efficient useState-driven instant re-renders without page refresh
 - Clean player management interface
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### 🎮 Pokémon World
-**Tech:** Vanilla JS · PokeAPI · CSS
+> Vanilla JS · PokeAPI · CSS &nbsp;|&nbsp; 🔗 [Live Demo](https://pokemon-world-alpha.vercel.app)
 
-🔗 [pokemon-world-alpha.vercel.app](https://pokemon-world-alpha.vercel.app)
-
-- Search, type filtering & paginated results
+- Search, type filtering & paginated results via PokeAPI
 - Interactive flip-card UI for Pokémon details
-- 100% vanilla JS — no frameworks used
+- 100% vanilla JS — zero frameworks
 
-</td>
-<td width="50%">
+---
 
-### 📁 More Projects
-**43+ repositories on GitHub!**
+### 📁 More Projects — 43+ Repos on GitHub
+> 🔗 [View all repositories →](https://github.com/dronpareek7-art?tab=repositories)
 
-🔗 [View all repos →](https://github.com/dronpareek7-art?tab=repositories)
-
-- HTML/CSS experiments & UI clones
-- Tesla landing page clone
-- Hover effects & animations
-- And much more...
-
-</td>
-</tr>
-</table>
+- HTML/CSS experiments · Tesla landing page clone · Hover effects & animations
 
 ---
 
