@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Drona%20Pareek&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%40%20iShivax&descAlignY=58&descSize=20&descColor=e2e8f0" width="100%" alt="Drona Pareek"/>
 
 <a href="https://github.com/dronpareek7-art">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=420&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB;Payment+Gateways+%C2%B7+REST+APIs;Clean+code.+Scalable+apps." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=420&lines=Mern+Stack+Web+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB;Payment+Gateways+%C2%B7+REST+APIs;Clean+code.+Scalable+apps." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -28,11 +28,11 @@ const drona = {
   location: "Jaipur, India 🇮🇳",
   role: "Web Developer @ iShivax",
   education: "BCA (CGPA 8.5/10)",
-  stack: ["React", "Node", "MongoDB"],
+  stack: ["React.Js", "NodeJs","Express JS:, "MongoDB"],
 };
 ```
 
-I'm a **Web Developer** who builds and ships full-stack applications, from responsive React interfaces to Node.js/Express APIs backed by MongoDB. I started with frontend, grew through a full-stack internship, and now work full-time on **real production applications**: payment gateways, real-time features and live system maintenance.
+I'm a **Mern stack Web Developer** who builds and ships full-stack applications, from responsive React interfaces to Node.js/Express APIs backed by MongoDB. I started with frontend, grew through a full-stack internship, and now work full-time on **real production applications**: payment gateways, real-time features and live system maintenance.
 
 - 💼 Full-time **Web Developer at iShivax** since June 2026
 - 💳 Integrated **Razorpay** and **CCAvenue** payment gateways
